@@ -1,0 +1,12 @@
+{
+  "users": [
+    { "id": "23", "firstName": "Maisie", "age": 3, "companyId": "1" },
+    { "id": "40", "firstName": "Norman", "age": 2, "companyId": "2" },
+    { "id": "41", "firstName": "Gracie", "age": 1, "companyId": "2" }
+  ],
+  "companies": [
+    { "id": "1", "name": "Princess-Oppsies", "description": "stuff" },
+    { "id": "2", "name": "Picklesworth Industries", "description": "stuff" }
+  ]
+}
+
